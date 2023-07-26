@@ -1,4 +1,4 @@
-# Translator
+
 # Word Translator
 
 Word Translator is a simple Python application that allows users to translate words or phrases from one language to another. The application utilizes a translation API to perform the translations and supports multiple languages.
