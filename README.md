@@ -18,3 +18,7 @@ Word Translator is a simple Python application that allows users to translate wo
 ### Installation
 
 1. pip install translate
+### Learning Resources
+Geeks for Geeks,
+futureskill.
+
